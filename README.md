@@ -120,7 +120,7 @@ Hash Calculator extracts the <code>$pdf$</code> hash from the locked PDF
 **3. Run the dictionary attack** — paste the hash into the Password Cracker and start it.
 It tries each word in the built-in wordlist until it finds a match.
 
-Dictionary attack matches the password → <b>password1</b>.
+Dictionary attack matches the password 
 
 **4. Verify — open the unlocked PDF** with the recovered password to reveal the flag.
 
