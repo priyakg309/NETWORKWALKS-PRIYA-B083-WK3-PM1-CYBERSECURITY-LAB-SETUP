@@ -112,7 +112,7 @@ uses the **same dictionary-attack idea** as John the Ripper.
 
 <p align="center">
 
-<p align="center"><i>PM2 lab task — password cracking with NetworkWalks online tools.</i></p>
+<i>PM2 lab task — password cracking with NetworkWalks online tools.
 
 **2. Extract the hash** — in the Hash Calculator, open the **PDF** tab and upload the locked
 PDF. It detects the encryption and outputs the `$pdf$` hash (Revision R4, Version V4,
@@ -123,7 +123,7 @@ Hash Calculator extracts the <code>$pdf$</code> hash from the locked PDF
 **3. Run the dictionary attack** — paste the hash into the Password Cracker and start it.
 It tries each word in the built-in wordlist until it finds a match.
 
-<p align="center"><i>Dictionary attack matches the password → <b>password1</b>.</i></p>
+Dictionary attack matches the password → <b>password1</b>.
 
 **4. Verify — open the unlocked PDF** with the recovered password to reveal the flag.
 
