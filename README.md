@@ -54,13 +54,12 @@ practice PDFs and open them to confirm.
 ### Steps
 
 **1. Set up and verify John (CLI)**
-<p align="center"><i>Install snap version of JTR CLI.</i></p>
+<p align="left"><i>Install snap version of JTR CLI.</i></p>
 
 **2. Open Johnny (GUI)** — Johnny runs John underneath, so it's pointed at a valid John
 executable and reports the detected version.
 
-<p align="center">
-<p align="center"><i>Johnny detects John the Ripper 1.9.0-jumbo — ready for attacks.</i></p>
+<p align="left"><i>Johnny detects John the Ripper 1.9.0-jumbo — ready for attacks.</i></p>
 
 **3. Extract the PDF password hash** — upload each locked PDF to the online extractor. The
 output **must start with `$pdf$`** (remove any `b'` prefix). Save each to its own file
@@ -69,24 +68,21 @@ output **must start with `$pdf$`** (remove any `b'` prefix). Save each to its ow
 - https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 
 </p>
-<p align="center"><i>The locked PDF converted to its <code>$pdf$</code> hash.</i></p>
+<p align="left"><i>The locked PDF converted to its <code>$pdf$</code> hash.</i></p>
 
 **4. Crack the hashes** — done in Johnny (*Open password file → Start new attack*).
 
 </p>
-<p align="center"><i>PDF 1 cracked → <b>password1</b>.</i></p>
+<p align="left"><i>PDF 1 cracked → <b>password1</b>.</i></p>
 
-<p align="center"><i>PDF 2 cracked → <b>password1</b>.</i></p>
+<p align="left"><i>PDF 2 cracked → <b>password1</b>.</i></p>
 
-<p align="center"><i>PDF 3 cracked → <b>1qaz2wsx</b>.</i></p>
+<p align="left"><i>PDF 3 cracked → <b>1qaz2wsx</b>.</i></p>
 
 **5. Verify — open the unlocked PDFs.** Each recovered password opened its PDF; PDF 3
 revealed the flag.
 
-<p align="center">
-  <img src="W3-PM1-JTR/screenshots/Step7_All_Three_PDFs_Unlocked.png" width="800">
-</p>
-<p align="center"><i>All three PDFs unlocked with their recovered passwords.</i></p>
+<p align="left"><i>All three PDFs unlocked with their recovered passwords.</i></p>
 
 ### Results — PM1
 
