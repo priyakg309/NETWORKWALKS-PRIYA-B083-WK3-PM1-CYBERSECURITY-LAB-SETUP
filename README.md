@@ -119,7 +119,7 @@ uses the **same dictionary-attack idea** as John the Ripper.
 PDF. It detects the encryption and outputs the `$pdf$` hash (Revision R4, Version V4,
 128-bit key).
 
-<p align="center"><i>Hash Calculator extracts the <code>$pdf$</code> hash from the locked PDF.</i></p>
+Hash Calculator extracts the <code>$pdf$</code> hash from the locked PDF
 
 **3. Run the dictionary attack** — paste the hash into the Password Cracker and start it.
 It tries each word in the built-in wordlist until it finds a match.
@@ -128,7 +128,7 @@ It tries each word in the built-in wordlist until it finds a match.
 
 **4. Verify — open the unlocked PDF** with the recovered password to reveal the flag.
 
-<p align="center"><i>PDF unlocked with <b>password1</b> — flag captured.</i></p>
+PDF unlocked with password
 
 ### Results — PM2
 
@@ -143,6 +143,4 @@ It tries each word in the built-in wordlist until it finds a match.
 
 ## Author
 
-Priya Kishore Gehani
-Networkwalks - Cybersecurity 
-Week 3 - B083
+Priya Kishore Gehani | Networkwalks - Cybersecurity | Week 3 | B083
