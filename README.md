@@ -82,7 +82,7 @@ revealed the flag.
 
 All three PDFs unlocked with their recovered passwords.
 
-### Results — PM1
+### Results — Module 1
 
 | PDF file            | Recovered password | Why it was weak                  |
 |---------------------|--------------------|----------------------------------|
@@ -161,7 +161,7 @@ PDF unlocked with password
 
 ---
 
-### Results — PM2
+### Results — Module 2
 
 | PDF file           | Recovered password | Method                         |
 |--------------------|--------------------|--------------------------------|
