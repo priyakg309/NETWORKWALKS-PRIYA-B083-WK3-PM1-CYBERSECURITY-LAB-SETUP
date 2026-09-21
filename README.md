@@ -1,4 +1,4 @@
-# NetworkWalks B082 — Week 3 · Password Cracking
+# NetworkWalks B083 — Week 3 · Password Cracking
 
 <p align="center">
   <img src="https://img.shields.io/badge/purpose-educational%20only-blue" alt="Educational">
@@ -10,7 +10,7 @@
 </p>
 
 This repo documents **Week 3** of my Cybersecurity & Ethical Hacking internship with
-NetworkWalks Academy (Batch B082). Week 3 is all about **password cracking** — recovering
+NetworkWalks Academy (Batch B083). Week 3 is all about **password cracking** — recovering
 the passwords of encrypted PDF files and confirming the results by opening them. It has
 two parts, each using a different toolset for the same goal:
 
