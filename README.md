@@ -40,7 +40,7 @@ training material I was given, on hardware I own and control.
 
 ---
 
-## PM1 · Password Cracking with John the Ripper (JTR)
+## Module 1 · Password Cracking with John the Ripper (JTR)
 
 **John the Ripper (JTR)** is the industry-standard password cracker; **Johnny** is its
 point-and-click GUI. The goal of this module was to recover the passwords of three locked
@@ -90,10 +90,29 @@ All three PDFs unlocked with their recovered passwords.
 | My Locked PDF2.pdf  | `password1`        | one of the most common passwords |
 | My Locked PDF3.pdf  | `1qaz2wsx`         | keyboard-walk pattern            |
 
+<img width="646" height="389" alt="Screenshotl" src="https://github.com/user-attachments/assets/c00fbe09-9abe-4d8c-a259-22eac55fd1dd" />
+
+<img width="953" height="410" alt="screenshot1" src="https://github.com/user-attachments/assets/3fdd0201-b9f9-49f1-a682-460a48256e50" />
+
+<img width="919" height="388" alt="screenshot2" src="https://github.com/user-attachments/assets/9c713432-835f-4e00-ae8c-b529ad6af1a2" />
+
+<img width="644" height="395" alt="screenshot3" src="https://github.com/user-attachments/assets/117dd328-dcf1-426a-9660-dd5e0b79fb53" />
+
+<img width="945" height="378" alt="screenshot4" src="https://github.com/user-attachments/assets/b51e544d-2d00-4b8c-8df4-29be6ffae0c0" />
+
+<img width="911" height="385" alt="screenshot5" src="https://github.com/user-attachments/assets/b08c9650-7a25-4ebb-b176-0801f146c836" />
+
+<img width="638" height="392" alt="screenshot6" src="https://github.com/user-attachments/assets/d8fa4e20-0cbf-4d5c-a4bc-03379a61f264" />
+
+<img width="958" height="391" alt="screenshot7" src="https://github.com/user-attachments/assets/ad552add-962d-480c-b23e-f16d69fd6ec3" />
+
+<img width="943" height="395" alt="screenshot8" src="https://github.com/user-attachments/assets/a0a6de29-9746-4cf1-a828-b96422769cc8" />
+
+
 
 ---
 
-## PM2 · Password Cracking with NetworkWalks Online Tools
+## Module 2· Password Cracking with NetworkWalks Online Tools
 
 This module reaches the same goal using NetworkWalks' own **free, browser-based** tools —
 no installation. It uses two tools in sequence, and proves the point that a simple web tool
@@ -135,6 +154,25 @@ PDF unlocked with password
 | My Locked PDF1.pdf | `password1`        | dictionary attack (built-in wordlist) |
 | My Locked PDF2.pdf | `password1`        | dictionary attack (built-in wordlist) |
 | My Locked PDF1.pdf | `1qaz2wsx`        | dictionary attack (built-in wordlist) |
+
+
+<img width="925" height="393" alt="screenshot9" src="https://github.com/user-attachments/assets/f4c08380-24a2-4558-bcba-318d545dcff7" />
+
+<img width="932" height="390" alt="screenshot10" src="https://github.com/user-attachments/assets/4d4defa6-949a-47b8-8ffb-5a40aeacf4ad" />
+
+<img width="917" height="389" alt="screenshot11" src="https://github.com/user-attachments/assets/5024b3f5-9ec1-4775-a6f0-8e571520f1dc" />
+
+<img width="904" height="338" alt="screenshot12" src="https://github.com/user-attachments/assets/c6b35fcf-9b19-47e2-84ee-81fd51e65af2" />
+
+<img width="803" height="398" alt="screenshot13" src="https://github.com/user-attachments/assets/768b82e9-f181-4e78-93ab-b22882edd87c" />
+
+<img width="949" height="396" alt="screenshot14" src="https://github.com/user-attachments/assets/a063e9b6-f377-4faf-b4bc-0cfc5e7d896a" />
+
+<img width="900" height="401" alt="screenshot15" src="https://github.com/user-attachments/assets/8ff49b8c-ad88-4f75-abaf-63c56acdd0dc" />
+
+<img width="932" height="346" alt="screenshot16" src="https://github.com/user-attachments/assets/69e078a0-b5f2-43c9-8dc4-851051639e4f" />
+
+<img width="930" height="396" alt="screenshot17" src="https://github.com/user-attachments/assets/4903310e-9fe2-45cc-b1e0-e5f1c77884fc" />
 
 
 ---
