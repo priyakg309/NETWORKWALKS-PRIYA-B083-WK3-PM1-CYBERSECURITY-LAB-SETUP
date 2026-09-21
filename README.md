@@ -71,12 +71,11 @@ The locked PDF converted to its <code>$pdf$</code> hash.</i></p>
 
 **4. Crack the hashes** — done in Johnny (*Open password file → Start new attack*).
 
-</p>
-<p align="left"><i>PDF 1 cracked → <b>password1</b>.</i></p>
+PDF 1 cracked → <b>password1</b>
 
-<p align="left"><i>PDF 2 cracked → <b>password1</b>.</i></p>
+PDF 2 cracked → <b>password1</b>
 
-<p align="left"><i>PDF 3 cracked → <b>1qaz2wsx</b>.</i></p>
+PDF 3 cracked → <b>1qaz2wsx</b>
 
 **5. Verify — open the unlocked PDFs.** Each recovered password opened its PDF; PDF 3
 revealed the flag.
@@ -110,9 +109,7 @@ uses the **same dictionary-attack idea** as John the Ripper.
 
 **1. Open the lab task page** and download the locked practice PDF.
 
-<p align="center">
-
-<i>PM2 lab task — password cracking with NetworkWalks online tools.
+PM2 lab task — password cracking with NetworkWalks online tools.
 
 **2. Extract the hash** — in the Hash Calculator, open the **PDF** tab and upload the locked
 PDF. It detects the encryption and outputs the `$pdf$` hash (Revision R4, Version V4,
