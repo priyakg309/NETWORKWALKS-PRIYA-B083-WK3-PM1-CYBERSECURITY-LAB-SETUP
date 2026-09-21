@@ -90,11 +90,11 @@ All three PDFs unlocked with their recovered passwords.
 | My Locked PDF2.pdf  | `password1`        | one of the most common passwords |
 | My Locked PDF3.pdf  | `1qaz2wsx`         | keyboard-walk pattern            |
 
+<b>
+<img width="646" height="389" alt="Screenshotl" src="https://github.com/user-attachments/assets/c00fbe09-9abe-4d8c-a259-22eac55fd1dd" /></b>
 
-<img width="646" height="389" alt="Screenshotl" src="https://github.com/user-attachments/assets/c00fbe09-9abe-4d8c-a259-22eac55fd1dd" />
-
-
-<img width="953" height="410" alt="screenshot1" src="https://github.com/user-attachments/assets/3fdd0201-b9f9-49f1-a682-460a48256e50" />
+<b>
+<img width="953" height="410" alt="screenshot1" src="https://github.com/user-attachments/assets/3fdd0201-b9f9-49f1-a682-460a48256e50" /></b>
 
 
 <img width="919" height="388" alt="screenshot2" src="https://github.com/user-attachments/assets/9c713432-835f-4e00-ae8c-b529ad6af1a2" />
