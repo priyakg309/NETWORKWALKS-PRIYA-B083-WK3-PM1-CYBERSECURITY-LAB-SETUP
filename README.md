@@ -54,12 +54,12 @@ practice PDFs and open them to confirm.
 ### Steps
 
 **1. Set up and verify John (CLI)**
-<p align="left"><i>Install snap version of JTR CLI.</i></p>
+Install snap version of JTR CLI.
 
 **2. Open Johnny (GUI)** — Johnny runs John underneath, so it's pointed at a valid John
 executable and reports the detected version.
 
-<p align="left"><i>Johnny detects John the Ripper 1.9.0-jumbo — ready for attacks.</i></p>
+Johnny detects John the Ripper 1.9.0-jumbo — ready for attacks.
 
 **3. Extract the PDF password hash** — upload each locked PDF to the online extractor. The
 output **must start with `$pdf$`** (remove any `b'` prefix). Save each to its own file
@@ -67,8 +67,7 @@ output **must start with `$pdf$`** (remove any `b'` prefix). Save each to its ow
 
 - https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 
-</p>
-<p align="left"><i>The locked PDF converted to its <code>$pdf$</code> hash.</i></p>
+The locked PDF converted to its <code>$pdf$</code> hash.</i></p>
 
 **4. Crack the hashes** — done in Johnny (*Open password file → Start new attack*).
 
