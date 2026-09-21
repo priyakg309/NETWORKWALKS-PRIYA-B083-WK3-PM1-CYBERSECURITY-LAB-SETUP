@@ -129,6 +129,8 @@ Dictionary attack matches the password → <b>password1</b>.
 
 PDF unlocked with password
 
+---
+
 ### Results — PM2
 
 | PDF file           | Recovered password | Method                         |
@@ -140,6 +142,6 @@ PDF unlocked with password
 
 ---
 
-## Author
+### Author
 
 Priya Kishore Gehani | Networkwalks - Cybersecurity | Week 3 | B083
