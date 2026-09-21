@@ -14,9 +14,9 @@ NetworkWalks Academy (Batch B083). Week 3 is all about **password cracking** —
 the passwords of encrypted PDF files and confirming the results by opening them. It has
 two parts, each using a different toolset for the same goal:
 
-- **PM1 — Password Cracking with JTR:** using **John the Ripper (JTR)** and its graphical
+- **Module 1 — Password Cracking with JTR:** using **John the Ripper (JTR)** and its graphical
   front-end **Johnny** — the industry-standard cracking tools.
-- **PM2 — Password Cracking with NetworkWalks Tools:** using NetworkWalks' own free,
+- **Module 2 — Password Cracking with NetworkWalks Tools:** using NetworkWalks' own free,
   browser-based **Hash Calculator** and **Password Cracker** — no installation needed.
 
 Both modules follow the same idea: take the password hash out of a locked PDF, then run a
