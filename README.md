@@ -81,7 +81,7 @@ The locked PDF converted to its <code>$pdf$</code> hash.</i></p>
 **5. Verify — open the unlocked PDFs.** Each recovered password opened its PDF; PDF 3
 revealed the flag.
 
-<p align="left"><i>All three PDFs unlocked with their recovered passwords.</i></p>
+All three PDFs unlocked with their recovered passwords.
 
 ### Results — PM1
 
